@@ -7,7 +7,7 @@ cần 1 cái web access được bằng mobile để thuận tiện trong việc
 ## input/output 
 user: 
   1. đăng ký (sign in using Google)
-  2. update thông tin (tên, số điện thoại)
+  2. update thông tin (tên, số điện thoại, facebook)
   3. book cơm và thanh toán bằng momo 
 admin: 
   1. add new thực đơn của từng ngày 
