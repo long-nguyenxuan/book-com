@@ -23,3 +23,12 @@ admin có thể xuất thông tin danh sách book thành excel để thuận ti�
 Cho phép đặt cơm qua Facebook Messenger 
 Cho phép đặt cơm qua Slack 
 Cho phép đặt cơm qua Teams 
+
+## System constraints
+web này chạy tốt với 100 users trên hạ tầng AWS t2.micro (1 vCPU, 1 GiB RAM) 
+## Technical Stack 
+OS: Ubuntu server 18.04 
+DB: MySQL 
+Server: ASP.NET Core with nginx
+Client: web app with mobile compatible 
+
