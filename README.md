@@ -1,4 +1,4 @@
-# book-com
+# luch-booking
 
 ## business requirement 
 cần 1 cái web access được bằng mobile để thuận tiện trong việc book cơm và thanh toán qua MOMO
